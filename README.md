@@ -1,4 +1,4 @@
-# schrepfer.crypto
+# `crypto`
 *Password Generator Library for JavaScript*
 
  - Provides an interface for generating secure password in JavaScript
